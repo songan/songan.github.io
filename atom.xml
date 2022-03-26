@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SongAn</title>
+  
+  <subtitle>SongAn</subtitle>
+  <link href="https://songan.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://songan.github.io/"/>
+  <updated>2022-03-25T05:28:57.081Z</updated>
+  <id>https://songan.github.io/</id>
+  
+  <author>
+    <name>SongAn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySQL Binlog详解</title>
+    <link href="https://songan.github.io/2022/03/25/2022-03-25-mysql-binlog/"/>
+    <id>https://songan.github.io/2022/03/25/2022-03-25-mysql-binlog/</id>
+    <published>2022-03-24T16:00:00.000Z</published>
+    <updated>2022-03-25T05:28:57.081Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;MySQL-Binlog&quot;&gt;&lt;a href=&quot;#MySQL-Binlog&quot; class=&quot;headerlink&quot; title=&quot;MySQL Binlog&quot;&gt;&lt;/a&gt;MySQL Binlog&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;MySQL 的 Binlog</summary>
+        
+      
+    
+    
+    
+    
+    <category term="MySQL" scheme="https://songan.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL执行计划</title>
+    <link href="https://songan.github.io/2022/03/25/2022-03-25-mysql-zhi-xing-ji-hua/"/>
+    <id>https://songan.github.io/2022/03/25/2022-03-25-mysql-zhi-xing-ji-hua/</id>
+    <published>2022-03-24T16:00:00.000Z</published>
+    <updated>2022-03-25T05:30:29.115Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;执行计划各个字段的含义如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;列名&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;id&lt;/td&gt;
+&lt;td&gt;执行序号，MSYQL</summary>
+        
+      
+    
+    
+    
+    
+    <category term="MySQL" scheme="https://songan.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis主从同步原理</title>
+    <link href="https://songan.github.io/2022/03/25/2022-03-25-redis-zhu-cong-tong-bu-yuan-li/"/>
+    <id>https://songan.github.io/2022/03/25/2022-03-25-redis-zhu-cong-tong-bu-yuan-li/</id>
+    <published>2022-03-24T16:00:00.000Z</published>
+    <updated>2022-03-25T05:32:37.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Redis主从同步&quot;&gt;&lt;a href=&quot;#Redis主从同步&quot; class=&quot;headerlink&quot; title=&quot;Redis主从同步&quot;&gt;&lt;/a&gt;Redis主从同步&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Redis</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Redis" scheme="https://songan.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis底层数据结构</title>
+    <link href="https://songan.github.io/2022/03/25/2022-03-25-redis-di-ceng-shu-ju-jie-gou/"/>
+    <id>https://songan.github.io/2022/03/25/2022-03-25-redis-di-ceng-shu-ju-jie-gou/</id>
+    <published>2022-03-24T16:00:00.000Z</published>
+    <updated>2022-03-25T05:32:46.483Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;string-类型&quot;&gt;&lt;a href=&quot;#string-类型&quot; class=&quot;headerlink&quot; title=&quot;string 类型&quot;&gt;&lt;/a&gt;string 类型&lt;/h3&gt;&lt;p&gt;string 是 Redis 中最基本的数据类型，Redis 是用 C</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Redis" scheme="https://songan.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7 卸载系统自带的JDK,并安装自己需要的版本</title>
+    <link href="https://songan.github.io/2021/03/30/2019-05-12-centos7-xie-zai-xi-tong-zi-dai-de-jdk-bing-an-zhuang-zi-ji-xu-yao-de-ban-ben/"/>
+    <id>https://songan.github.io/2021/03/30/2019-05-12-centos7-xie-zai-xi-tong-zi-dai-de-jdk-bing-an-zhuang-zi-ji-xu-yao-de-ban-ben/</id>
+    <published>2021-03-30T15:30:09.001Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;rpm&lt;/span&gt; -qa &lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="CentOS" scheme="https://songan.github.io/tags/CentOS/"/>
+    
+    <category term="JDK" scheme="https://songan.github.io/tags/JDK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringCloud中Zuul的配置</title>
+    <link href="https://songan.github.io/2021/03/30/2019-05-12-springcloud-zhong-zuul-de-pei-zhi/"/>
+    <id>https://songan.github.io/2021/03/30/2019-05-12-springcloud-zhong-zuul-de-pei-zhi/</id>
+    <published>2021-03-30T15:30:09.001Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-xml&quot; data-language=&quot;xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;server:
+  port: 10010
+spring:
+  application:
+   </summary>
+        
+      
+    
+    
+    
+    
+    <category term="SpringCloud" scheme="https://songan.github.io/tags/SpringCloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS解压版安装MySQL5.7.11</title>
+    <link href="https://songan.github.io/2019/05/27/2019-05-19-centosinstallmysql/"/>
+    <id>https://songan.github.io/2019/05/27/2019-05-19-centosinstallmysql/</id>
+    <published>2019-05-26T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;准备MySQL文件&quot;&gt;&lt;a href=&quot;#准备MySQL文件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="CentOS" scheme="https://songan.github.io/tags/CentOS/"/>
+    
+    <category term="MySQL" scheme="https://songan.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7使用firewalld开放端口</title>
+    <link href="https://songan.github.io/2019/05/19/2019-05-19-centos7usesthefirewalldopenport/"/>
+    <id>https://songan.github.io/2019/05/19/2019-05-19-centos7usesthefirewalldopenport/</id>
+    <published>2019-05-18T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;添加&quot;&gt;&lt;a href=&quot;#添加&quot; class=&quot;headerlink&quot; title=&quot;添加&quot;&gt;&lt;/a&gt;添加&lt;/h3&gt;&lt;p&gt;&lt;code&gt;firewall-cmd --zone=public --add-port=6379/tcp</summary>
+        
+      
+    
+    
+    
+    
+    <category term="CentOS 7" scheme="https://songan.github.io/tags/CentOS-7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7下Redis5.0集群搭建</title>
+    <link href="https://songan.github.io/2019/05/19/2019-05-19-redisclusterbuildingundercentos7/"/>
+    <id>https://songan.github.io/2019/05/19/2019-05-19-redisclusterbuildingundercentos7/</id>
+    <published>2019-05-18T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;安装Redis&quot;&gt;&lt;a href=&quot;#安装Redis&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="redis" scheme="https://songan.github.io/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Conditional 派生注解</title>
+    <link href="https://songan.github.io/2019/05/18/2019-05-18-conditional/"/>
+    <id>https://songan.github.io/2019/05/18/2019-05-18-conditional/</id>
+    <published>2019-05-17T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Conditional派生注解（Spring注解版原生的-Conditional作用）&quot;&gt;&lt;a href=&quot;#Conditional派生注解（Spring注解版原生的-Conditional作用）&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SpringBoot" scheme="https://songan.github.io/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot 自动配置原理</title>
+    <link href="https://songan.github.io/2019/05/18/2019-05-18-howspringbootautomatesconfiguration/"/>
+    <id>https://songan.github.io/2019/05/18/2019-05-18-howspringbootautomatesconfiguration/</id>
+    <published>2019-05-17T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;自动配置原理：&quot;&gt;&lt;a href=&quot;#自动配置原理：&quot; class=&quot;headerlink&quot; title=&quot;自动配置原理：&quot;&gt;&lt;/a&gt;&lt;strong&gt;自动配置原理：&lt;/strong&gt;&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SpringBoot" scheme="https://songan.github.io/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>按周，天，月分组查询</title>
+    <link href="https://songan.github.io/2019/05/15/2019-05-15-week-day-monthgroupquery/"/>
+    <id>https://songan.github.io/2019/05/15/2019-05-15-week-day-monthgroupquery/</id>
+    <published>2019-05-14T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-sql&quot; data-language=&quot;sql&quot;&gt;&lt;code class=&quot;language-sql&quot;&gt;
+&lt;span class=&quot;token comment&quot;&gt;--按周&lt;/span&gt;
+&lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SQL" scheme="https://songan.github.io/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CountDownLatch 来模拟并发</title>
+    <link href="https://songan.github.io/2019/05/14/2019-05-13-countdownlatchtosimulateconcurrency/"/>
+    <id>https://songan.github.io/2019/05/14/2019-05-13-countdownlatchtosimulateconcurrency/</id>
+    <published>2019-05-13T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;CountDownLatch介绍&quot;&gt;&lt;a href=&quot;#CountDownLatch介绍&quot; class=&quot;headerlink&quot; title=&quot;CountDownLatch介绍&quot;&gt;&lt;/a&gt;CountDownLatch介绍&lt;/h2&gt;&lt;p&gt;  </summary>
+        
+      
+    
+    
+    
+    
+    <category term="CountDownLatch" scheme="https://songan.github.io/tags/CountDownLatch/"/>
+    
+    <category term="并发" scheme="https://songan.github.io/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring单例与线程安全小结</title>
+    <link href="https://songan.github.io/2019/05/13/2019-05-13-spring-dan-li-mo-shi-yu-xian-cheng-an-quan/"/>
+    <id>https://songan.github.io/2019/05/13/2019-05-13-spring-dan-li-mo-shi-yu-xian-cheng-an-quan/</id>
+    <published>2019-05-12T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Spring单例模式与线程安全&quot;&gt;&lt;a href=&quot;#Spring单例模式与线程安全&quot; class=&quot;headerlink&quot; title=&quot;Spring单例模式与线程安全&quot;&gt;&lt;/a&gt;Spring单例模式与线程安全&lt;/h2&gt;&lt;p&gt; </summary>
+        
+      
+    
+    
+    
+    
+    <category term="Spring" scheme="https://songan.github.io/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7安装Docker</title>
+    <link href="https://songan.github.io/2019/05/12/2019-05-12-centos7-an-zhuang-docker/"/>
+    <id>https://songan.github.io/2019/05/12/2019-05-12-centos7-an-zhuang-docker/</id>
+    <published>2019-05-11T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;centOS7安装Docker之前需要CentOS7-内核高于-3-1&quot;&gt;&lt;a href=&quot;#centOS7安装Docker之前需要CentOS7-内核高于-3-1&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://songan.github.io/tags/Linux/"/>
+    
+    <category term="CentOs" scheme="https://songan.github.io/tags/CentOs/"/>
+    
+    <category term="Docker" scheme="https://songan.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iframe跨域传递参数</title>
+    <link href="https://songan.github.io/2019/05/12/2019-05-12-iframe-kua-yu-chuan-di-can-shu/"/>
+    <id>https://songan.github.io/2019/05/12/2019-05-12-iframe-kua-yu-chuan-di-can-shu/</id>
+    <published>2019-05-11T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;子页面（iframe引入的页面）&quot;&gt;&lt;a href=&quot;#子页面（iframe引入的页面）&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="JS" scheme="https://songan.github.io/tags/JS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux下nfs共享服务器的安装</title>
+    <link href="https://songan.github.io/2019/05/12/2019-05-12-linux-xia-nfs-gong-xiang-fu-wu-qi-de-an-zhuang/"/>
+    <id>https://songan.github.io/2019/05/12/2019-05-12-linux-xia-nfs-gong-xiang-fu-wu-qi-de-an-zhuang/</id>
+    <published>2019-05-11T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;检查共享端，即需要提供分享文件夹的服务器是否具有NFS服务&quot;&gt;&lt;a href=&quot;#检查共享端，即需要提供分享文件夹的服务器是否具有NFS服务&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://songan.github.io/tags/Linux/"/>
+    
+    <category term="NFS" scheme="https://songan.github.io/tags/NFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>springboot在tomcat中启动两次的问题</title>
+    <link href="https://songan.github.io/2019/05/12/2019-05-12-springboot-zai-tomcat-zhong-qi-dong-liang-ci-de-wen-ti/"/>
+    <id>https://songan.github.io/2019/05/12/2019-05-12-springboot-zai-tomcat-zhong-qi-dong-liang-ci-de-wen-ti/</id>
+    <published>2019-05-11T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;有两个可能性的&quot;&gt;&lt;a href=&quot;#有两个可能性的&quot; class=&quot;headerlink&quot; title=&quot;有两个可能性的&quot;&gt;&lt;/a&gt;有两个可能性的&lt;/h1&gt;&lt;p&gt;1.springboot 的内置tomcat没有去掉，导致springboot 和tomcat</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SpringBoot" scheme="https://songan.github.io/tags/SpringBoot/"/>
+    
+    <category term="Tomcat" scheme="https://songan.github.io/tags/Tomcat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux服务器之间传输文件</title>
+    <link href="https://songan.github.io/2019/05/10/2019-05-10-linux-scp/"/>
+    <id>https://songan.github.io/2019/05/10/2019-05-10-linux-scp/</id>
+    <published>2019-05-09T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;服务器之间传输文件&quot;&gt;&lt;a href=&quot;#服务器之间传输文件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://songan.github.io/tags/Linux/"/>
+    
+    <category term="CentOs" scheme="https://songan.github.io/tags/CentOs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装redis 完整步骤</title>
+    <link href="https://songan.github.io/2019/05/10/2019-05-10-linux-an-zhuang-redis-wan-zheng-bu-zou/"/>
+    <id>https://songan.github.io/2019/05/10/2019-05-10-linux-an-zhuang-redis-wan-zheng-bu-zou/</id>
+    <published>2019-05-09T16:00:00.000Z</published>
+    <updated>2021-03-30T15:30:09.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;获取redis资源&quot;&gt;&lt;a href=&quot;#获取redis资源&quot; class=&quot;headerlink&quot; title=&quot;获取redis资源&quot;&gt;&lt;/a&gt;获取redis资源&lt;/h2&gt;&lt;p&gt;&lt;code&gt;wget</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://songan.github.io/tags/Linux/"/>
+    
+    <category term="CentOs" scheme="https://songan.github.io/tags/CentOs/"/>
+    
+    <category term="redis" scheme="https://songan.github.io/tags/redis/"/>
+    
+  </entry>
+  
+</feed>
